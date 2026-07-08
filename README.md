@@ -902,3 +902,8 @@ helm package .
 ---
 
 ⭐ If this repository helps you, don't forget to give it a Star!
+
+
+# Helm upgrade 
+
+![Helm Chart Screenshot](./snaps/Helm_snap1.jpg)
