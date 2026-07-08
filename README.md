@@ -4,6 +4,7 @@
 > A complete Helm Chart reference for Kubernetes beginners to advanced users.
 > This repository contains Helm concepts, commands, chart structure, templating, best practices, and real-world examples.
 
+```text
 helm-chart/
 │
 ├── README.md
@@ -84,3 +85,5 @@ helm-chart/
 └── CheatSheets/
     ├── Helm-Commands.md
     └── Template-Functions.md
+
+```
